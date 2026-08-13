@@ -1,6 +1,6 @@
 # Awesome swift nio with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,066 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,238 | 🐛 100 | 📅 2026-06-30
 
 > A collaborative list of all things Swift NIO.
 
@@ -8,7 +8,7 @@
 
 Do you know of something that's missing on this list? Please [open a pull request](https://github.com/slashmo/awesome-swift-nio/pulls) ⭐ 89 | 🐛 0 | 📅 2021-01-24 so other people can enjoy the resource as well :heart:
 
-If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,504 | 🐛 276 | 🌐 Swift | 📅 2026-08-11
+If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,505 | 🐛 279 | 🌐 Swift | 📅 2026-08-11
 
 ## Articles
 
@@ -19,7 +19,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ## Books
 
-* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,032 | 🐛 664 | 🌐 Java | 📅 2026-08-12, which inspired the creation of NIO
+* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,034 | 🐛 660 | 🌐 Java | 📅 2026-08-13, which inspired the creation of NIO
 
 ## Videos
 
@@ -49,7 +49,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ### Apps
 
-* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 6,937 | 🐛 1,862 | 📅 2026-08-12 - HTTP Debugging Proxy, uses SwiftNIO for networking
+* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 6,939 | 🐛 1,863 | 📅 2026-08-12 - HTTP Debugging Proxy, uses SwiftNIO for networking
 
 ### Examples
 
