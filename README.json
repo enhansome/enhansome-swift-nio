@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T15:25:11Z",
             "owner": "vapor",
             "repo": "vapor",
-            "stars": 26189
+            "stars": 26188
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2026-08-07T07:36:41Z",
             "owner": "apple",
             "repo": "swift-nio-http2",
-            "stars": 500
+            "stars": 499
           }
         },
         {
@@ -205,7 +205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:04:46.200Z",
+    "last_updated": "2026-08-14T13:58:50.481Z",
     "original_repository": "slashmo/awesome-swift-nio",
     "original_repository_sha": "a18f7c1a85cc18c01566ee0bf1f7cca88f94cc6c",
     "enhanced_repository": "enhansome/enhansome-swift-nio",
