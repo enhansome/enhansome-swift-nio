@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T15:25:11Z",
             "owner": "vapor",
             "repo": "vapor",
-            "stars": 26188
+            "stars": 26190
           }
         },
         {
@@ -80,7 +80,7 @@
             "last_commit": "2026-07-28T11:42:30Z",
             "owner": "swift-server",
             "repo": "async-http-client",
-            "stars": 1074
+            "stars": 1075
           }
         },
         {
@@ -94,7 +94,7 @@
             "last_commit": "2026-05-20T16:52:15Z",
             "owner": "orlandos-nl",
             "repo": "MongoKitten",
-            "stars": 752
+            "stars": 753
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2026-08-07T07:36:41Z",
             "owner": "apple",
             "repo": "swift-nio-http2",
-            "stars": 499
+            "stars": 500
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2026-05-29T08:44:10Z",
             "owner": "apple",
             "repo": "swift-nio-transport-services",
-            "stars": 338
+            "stars": 339
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-06T09:09:34Z",
             "owner": "apple",
             "repo": "swift-nio-extras",
-            "stars": 251
+            "stars": 252
           }
         },
         {
@@ -205,7 +205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:12:52.401Z",
+    "last_updated": "2026-08-16T13:16:20.908Z",
     "original_repository": "slashmo/awesome-swift-nio",
     "original_repository_sha": "a18f7c1a85cc18c01566ee0bf1f7cca88f94cc6c",
     "enhanced_repository": "enhansome/enhansome-swift-nio",
