@@ -21,7 +21,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-17T12:28:08Z",
+            "last_commit": "2026-08-17T20:01:36Z",
             "owner": "vapor",
             "repo": "vapor",
             "stars": 26191
@@ -205,7 +205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:24:03.766Z",
+    "last_updated": "2026-08-18T13:26:31.209Z",
     "original_repository": "slashmo/awesome-swift-nio",
     "original_repository_sha": "a18f7c1a85cc18c01566ee0bf1f7cca88f94cc6c",
     "enhanced_repository": "enhansome/enhansome-swift-nio",

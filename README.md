@@ -1,6 +1,6 @@
 # Awesome swift nio with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,812 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,219 | 🐛 103 | 📅 2026-06-30
 
 > A collaborative list of all things Swift NIO.
 
@@ -8,7 +8,7 @@
 
 Do you know of something that's missing on this list? Please [open a pull request](https://github.com/slashmo/awesome-swift-nio/pulls) ⭐ 89 | 🐛 0 | 📅 2021-01-24 so other people can enjoy the resource as well :heart:
 
-If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,507 | 🐛 288 | 🌐 Swift | 📅 2026-08-13
+If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,509 | 🐛 287 | 🌐 Swift | 📅 2026-08-18
 
 ## Articles
 
@@ -19,7 +19,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ## Books
 
-* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,033 | 🐛 660 | 🌐 Java | 📅 2026-08-17, which inspired the creation of NIO
+* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,035 | 🐛 661 | 🌐 Java | 📅 2026-08-18, which inspired the creation of NIO
 
 ## Videos
 
@@ -33,13 +33,13 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ### Packages & executables
 
-* [Vapor](https://github.com/vapor/vapor) ⭐ 26,191 | 🐛 115 | 🌐 Swift | 📅 2026-08-17 - A server-side Swift web framework
+* [Vapor](https://github.com/vapor/vapor) ⭐ 26,191 | 🐛 113 | 🌐 Swift | 📅 2026-08-17 - A server-side Swift web framework
 * [Swift gRPC](https://github.com/grpc/grpc-swift) ⭐ 2,248 | 🐛 99 | 🌐 Swift | 📅 2026-08-10 - The Swift language implementation of gRPC
 * [SmokeFramework](https://github.com/amzn/smoke-framework) ⭐ 1,453 | 🐛 9 | 🌐 Swift | 📅 2024-07-30 - A light-weight server-side service framework written in the Swift programming language
 * [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime) ⭐ 1,235 | 🐛 8 | 🌐 Swift | 📅 2026-07-29 - Swift implementation of AWS Lambda Runtime
 * [AsyncHTTPClient](https://github.com/swift-server/async-http-client) ⭐ 1,075 | 🐛 129 | 🌐 Swift | 📅 2026-07-28 - HTTP client library built on SwiftNIO
 * [MongoKitten](https://github.com/OpenKitten/MongoKitten) ⭐ 753 | 🐛 24 | 🌐 Swift | 📅 2026-05-20 - A MongoDB driver implementation in Swift
-* [Swift NIO HTTP/2](https://github.com/apple/swift-nio-http2) ⭐ 500 | 🐛 26 | 🌐 Swift | 📅 2026-08-07 - HTTP/2 support for SwiftNIO
+* [Swift NIO HTTP/2](https://github.com/apple/swift-nio-http2) ⭐ 500 | 🐛 27 | 🌐 Swift | 📅 2026-08-07 - HTTP/2 support for SwiftNIO
 * [Alchemy](https://github.com/alchemy-swift/alchemy) ⭐ 342 | 🐛 0 | 🌐 Swift | 📅 2025-11-07 - Elegant, batteries included web framework for Swift.
 * [Swift NIO transport services](https://github.com/apple/swift-nio-transport-services) ⭐ 339 | 🐛 23 | 🌐 Swift | 📅 2026-05-29 - Extensions for SwiftNIO to support Apple platforms as first-class citizens
 * [Swift NIO Extras](https://github.com/apple/swift-nio-extras) ⭐ 252 | 🐛 23 | 🌐 Swift | 📅 2026-08-06 - Useful code around SwiftNIO
@@ -49,7 +49,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ### Apps
 
-* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 6,945 | 🐛 1,865 | 📅 2026-08-12 - HTTP Debugging Proxy, uses SwiftNIO for networking
+* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 6,945 | 🐛 1,866 | 📅 2026-08-12 - HTTP Debugging Proxy, uses SwiftNIO for networking
 
 ### Examples
 
@@ -63,4 +63,4 @@ To the extent possible under law, [Moritz Lang](https://twitter.com/slashmodev) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
