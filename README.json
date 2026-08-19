@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 49910095,
                 "language": "Swift",
-                "last_commit": "2026-08-19T11:54:30Z",
+                "last_commit": "2026-08-19T13:08:22Z",
                 "owner": "vapor",
                 "repo": "vapor",
                 "stars": 26189
@@ -210,7 +210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:52:49.155Z",
+    "last_updated": "2026-08-19T13:27:42.753Z",
     "original_repository": "slashmo/awesome-swift-nio",
     "original_repository_id": 275930891,
     "original_repository_sha": "a18f7c1a85cc18c01566ee0bf1f7cca88f94cc6c",
