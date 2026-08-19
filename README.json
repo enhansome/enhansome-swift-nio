@@ -1,212 +1,218 @@
 {
   "items": [
     {
-      "description": "Do you know of something that's missing on this list? Please open a pull request so other people can enjoy the resource as well :heart:\nIf you instead want to get started contributing to NIO itself, check out the list of \"good first issues\"",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Projects using SwiftNIO"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Vapor",
-          "description": "A server-side Swift web framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-17T20:01:36Z",
-            "owner": "vapor",
-            "repo": "vapor",
-            "stars": 26191
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift gRPC",
-          "description": "The Swift language implementation of gRPC",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-10T14:56:30Z",
-            "owner": "grpc",
-            "repo": "grpc-swift",
-            "stars": 2248
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SmokeFramework",
-          "description": "A light-weight server-side service framework written in the Swift programming language",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-07-30T10:07:35Z",
-            "owner": "amzn",
-            "repo": "smoke-framework",
-            "stars": 1453
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift AWS Lambda Runtime",
-          "description": "Swift implementation of AWS Lambda Runtime",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-29T06:14:47Z",
-            "owner": "awslabs",
-            "repo": "swift-aws-lambda-runtime",
-            "stars": 1235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AsyncHTTPClient",
-          "description": "HTTP client library built on SwiftNIO",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-28T11:42:30Z",
-            "owner": "swift-server",
-            "repo": "async-http-client",
-            "stars": 1075
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MongoKitten",
-          "description": "A MongoDB driver implementation in Swift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-05-20T16:52:15Z",
-            "owner": "orlandos-nl",
-            "repo": "MongoKitten",
-            "stars": 753
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift NIO HTTP/2",
-          "description": "HTTP/2 support for SwiftNIO",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-07T07:36:41Z",
-            "owner": "apple",
-            "repo": "swift-nio-http2",
-            "stars": 500
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alchemy",
-          "description": "Elegant, batteries included web framework for Swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-11-07T23:57:58Z",
-            "owner": "alchemy-swift",
-            "repo": "alchemy",
-            "stars": 342
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift NIO transport services",
-          "description": "Extensions for SwiftNIO to support Apple platforms as first-class citizens",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-05-29T08:44:10Z",
-            "owner": "apple",
-            "repo": "swift-nio-transport-services",
-            "stars": 339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift NIO Extras",
-          "description": "Useful code around SwiftNIO",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-06T09:09:34Z",
-            "owner": "apple",
-            "repo": "swift-nio-extras",
-            "stars": 252
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MacroExpress",
-          "description": "An unopinionated SwiftNIO based web framework, Express.js/Connect like.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-28T23:41:33Z",
-            "owner": "Macro-swift",
-            "repo": "MacroExpress",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClickHouseNIO",
-          "description": "High performance Swift ClickHouse client written in pure Swift. With ClickHouseVapor it offers seamless ORM abstraction and connection pooling with Vapor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-04-16T08:51:53Z",
-            "owner": "patrick-zippenfenig",
-            "repo": "ClickHouseNIO",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "netrek-server-swift",
-          "description": "A Swift reimplementation of the original Internet game server: Netrek. Uses Swift-NIO, Swift Argument Parser, Swift Log, and Swift Service Lifecycle.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-10-22T22:05:41Z",
-            "owner": "darrellroot",
-            "repo": "netrek-server-swift",
-            "stars": 6
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vapor",
+              "description": "A server-side Swift web framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49910095,
+                "language": "Swift",
+                "last_commit": "2026-08-19T11:54:30Z",
+                "owner": "vapor",
+                "repo": "vapor",
+                "stars": 26189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift gRPC",
+              "description": "The Swift language implementation of gRPC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68841963,
+                "language": "Swift",
+                "last_commit": "2026-08-10T14:56:30Z",
+                "owner": "grpc",
+                "repo": "grpc-swift",
+                "stars": 2248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SmokeFramework",
+              "description": "A light-weight server-side service framework written in the Swift programming language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151299222,
+                "language": "Swift",
+                "last_commit": "2024-07-30T10:07:35Z",
+                "owner": "amzn",
+                "repo": "smoke-framework",
+                "stars": 1453
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift AWS Lambda Runtime",
+              "description": "Swift implementation of AWS Lambda Runtime",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244728768,
+                "language": "Swift",
+                "last_commit": "2026-07-29T06:14:47Z",
+                "owner": "awslabs",
+                "repo": "swift-aws-lambda-runtime",
+                "stars": 1235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AsyncHTTPClient",
+              "description": "HTTP client library built on SwiftNIO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178287727,
+                "language": "Swift",
+                "last_commit": "2026-07-28T11:42:30Z",
+                "owner": "swift-server",
+                "repo": "async-http-client",
+                "stars": 1075
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MongoKitten",
+              "description": "A MongoDB driver implementation in Swift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50437650,
+                "language": "Swift",
+                "last_commit": "2026-05-20T16:52:15Z",
+                "owner": "orlandos-nl",
+                "repo": "MongoKitten",
+                "stars": 753
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift NIO HTTP/2",
+              "description": "HTTP/2 support for SwiftNIO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123651404,
+                "language": "Swift",
+                "last_commit": "2026-08-18T16:43:05Z",
+                "owner": "apple",
+                "repo": "swift-nio-http2",
+                "stars": 500
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alchemy",
+              "description": "Elegant, batteries included web framework for Swift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245958933,
+                "language": "Swift",
+                "last_commit": "2025-11-07T23:57:58Z",
+                "owner": "alchemy-swift",
+                "repo": "alchemy",
+                "stars": 342
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift NIO transport services",
+              "description": "Extensions for SwiftNIO to support Apple platforms as first-class citizens",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141458085,
+                "language": "Swift",
+                "last_commit": "2026-05-29T08:44:10Z",
+                "owner": "apple",
+                "repo": "swift-nio-transport-services",
+                "stars": 339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift NIO Extras",
+              "description": "Useful code around SwiftNIO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133407752,
+                "language": "Swift",
+                "last_commit": "2026-08-06T09:09:34Z",
+                "owner": "apple",
+                "repo": "swift-nio-extras",
+                "stars": 252
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MacroExpress",
+              "description": "An unopinionated SwiftNIO based web framework, Express.js/Connect like.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232589525,
+                "language": "Swift",
+                "last_commit": "2026-07-28T23:41:33Z",
+                "owner": "Macro-swift",
+                "repo": "MacroExpress",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClickHouseNIO",
+              "description": "High performance Swift ClickHouse client written in pure Swift. With ClickHouseVapor it offers seamless ORM abstraction and connection pooling with Vapor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310033624,
+                "language": "Swift",
+                "last_commit": "2026-04-16T08:51:53Z",
+                "owner": "patrick-zippenfenig",
+                "repo": "ClickHouseNIO",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "netrek-server-swift",
+              "description": "A Swift reimplementation of the original Internet game server: Netrek. Uses Swift-NIO, Swift Argument Parser, Swift Log, and Swift Service Lifecycle.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277713933,
+                "language": "Swift",
+                "last_commit": "2022-10-22T22:05:41Z",
+                "owner": "darrellroot",
+                "repo": "netrek-server-swift",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Packages & executables"
         }
       ],
-      "title": "Packages & executables"
-    },
-    {
-      "description": "To the extent possible under law, Moritz Lang has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
+      "title": "Projects using SwiftNIO"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:26:31.209Z",
+    "last_updated": "2026-08-19T12:52:49.155Z",
     "original_repository": "slashmo/awesome-swift-nio",
+    "original_repository_id": 275930891,
     "original_repository_sha": "a18f7c1a85cc18c01566ee0bf1f7cca88f94cc6c",
     "enhanced_repository": "enhansome/enhansome-swift-nio",
     "enhanced_repository_description": null,
