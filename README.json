@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 49910095,
                 "language": "Swift",
-                "last_commit": "2026-08-19T14:21:35Z",
+                "last_commit": "2026-08-21T18:43:11Z",
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26191
+                "stars": 26190
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-10T14:56:30Z",
                 "owner": "grpc",
                 "repo": "grpc-swift",
-                "stars": 2247
+                "stars": 2248
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-06T09:09:34Z",
                 "owner": "apple",
                 "repo": "swift-nio-extras",
-                "stars": 252
+                "stars": 251
               }
             },
             {
@@ -210,7 +210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:28:52.526Z",
+    "last_updated": "2026-08-22T13:16:13.246Z",
     "original_repository": "slashmo/awesome-swift-nio",
     "original_repository_id": 275930891,
     "original_repository_sha": "a18f7c1a85cc18c01566ee0bf1f7cca88f94cc6c",
