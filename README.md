@@ -1,6 +1,6 @@
 # Awesome swift nio with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,840 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,136 | 🐛 106 | 📅 2026-08-21
 
 > A collaborative list of all things Swift NIO.
 
@@ -19,7 +19,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ## Books
 
-* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,035 | 🐛 669 | 🌐 Java | 📅 2026-08-20, which inspired the creation of NIO
+* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,033 | 🐛 670 | 🌐 Java | 📅 2026-08-20, which inspired the creation of NIO
 
 ## Videos
 
@@ -34,10 +34,10 @@ If you instead want to get started contributing to NIO itself, check out the lis
 ### Packages & executables
 
 * [Vapor](https://github.com/vapor/vapor) ⭐ 26,190 | 🐛 116 | 🌐 Swift | 📅 2026-08-21 - A server-side Swift web framework
-* [Swift gRPC](https://github.com/grpc/grpc-swift) ⭐ 2,248 | 🐛 98 | 🌐 Swift | 📅 2026-08-10 - The Swift language implementation of gRPC
+* [Swift gRPC](https://github.com/grpc/grpc-swift) ⭐ 2,247 | 🐛 98 | 🌐 Swift | 📅 2026-08-10 - The Swift language implementation of gRPC
 * [SmokeFramework](https://github.com/amzn/smoke-framework) ⭐ 1,453 | 🐛 9 | 🌐 Swift | 📅 2024-07-30 - A light-weight server-side service framework written in the Swift programming language
 * [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime) ⭐ 1,235 | 🐛 8 | 🌐 Swift | 📅 2026-07-29 - Swift implementation of AWS Lambda Runtime
-* [AsyncHTTPClient](https://github.com/swift-server/async-http-client) ⭐ 1,075 | 🐛 129 | 🌐 Swift | 📅 2026-07-28 - HTTP client library built on SwiftNIO
+* [AsyncHTTPClient](https://github.com/swift-server/async-http-client) ⭐ 1,074 | 🐛 130 | 🌐 Swift | 📅 2026-07-28 - HTTP client library built on SwiftNIO
 * [MongoKitten](https://github.com/OpenKitten/MongoKitten) ⭐ 754 | 🐛 24 | 🌐 Swift | 📅 2026-05-20 - A MongoDB driver implementation in Swift
 * [Swift NIO HTTP/2](https://github.com/apple/swift-nio-http2) ⭐ 501 | 🐛 26 | 🌐 Swift | 📅 2026-08-18 - HTTP/2 support for SwiftNIO
 * [Alchemy](https://github.com/alchemy-swift/alchemy) ⭐ 342 | 🐛 0 | 🌐 Swift | 📅 2025-11-07 - Elegant, batteries included web framework for Swift.
@@ -63,4 +63,4 @@ To the extent possible under law, [Moritz Lang](https://twitter.com/slashmodev) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
