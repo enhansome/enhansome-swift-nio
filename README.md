@@ -1,6 +1,6 @@
 # Awesome swift nio with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,498 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,520 | 🐛 106 | 📅 2026-08-21
 
 > A collaborative list of all things Swift NIO.
 
@@ -19,12 +19,12 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ## Books
 
-* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,034 | 🐛 671 | 🌐 Java | 📅 2026-08-24, which inspired the creation of NIO
+* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,034 | 🐛 668 | 🌐 Java | 📅 2026-08-24, which inspired the creation of NIO
 
 ## Videos
 
-* [Event driven networking for Swift](https://youtu.be/QJ3WG9kRLMo) - An overview of NIO, also it's initial open-source unveil :tada:
 * [SwiftNIO and Network.framework](https://youtu.be/M9kEtkhEjQ8) - Showcases how to use [NIO transport services](https://github.com/apple/swift-nio-transport-services) ⭐ 339 | 🐛 23 | 🌐 Swift | 📅 2026-05-29 to build an iOS SMTP client
+* [Event driven networking for Swift](https://youtu.be/QJ3WG9kRLMo) - An overview of NIO, also it's initial open-source unveil :tada:
 * [Testing SwiftNIO Systems](https://youtu.be/EVhliQJuFP0) - How to write automated tests for NIO applications
 * [SwiftNIO on the Raspberry PI](https://youtu.be/FPGf652O90Y) - Write NIO code in Xcode & deploy it to a Raspberry PI
 * [Implementing JSON-RPC with SwiftNIO](https://youtu.be/Rlhlc6NaO4w) - How you could use NIO to implement a custom protocol

@@ -4,6 +4,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Netty in Action",
+          "description": "The book about Netty, which inspired the creation of NIO",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1064563,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:34:00Z",
+            "owner": "netty",
+            "repo": "netty",
+            "stars": 35034
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SwiftNIO and Network.framework",
+          "description": "Showcases how to use NIO transport services to build an iOS SMTP client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141458085,
+            "language": "Swift",
+            "last_commit": "2026-05-29T08:44:10Z",
+            "owner": "apple",
+            "repo": "swift-nio-transport-services",
+            "stars": 339
+          }
+        }
+      ],
+      "title": "Videos"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -204,13 +246,57 @@
           "description": null,
           "node_type": "group",
           "title": "Packages & executables"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Proxyman",
+              "description": "HTTP Debugging Proxy, uses SwiftNIO for networking",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142885098,
+                "language": null,
+                "last_commit": "2026-08-24T08:46:20Z",
+                "owner": "ProxymanApp",
+                "repo": "Proxyman",
+                "stars": 6947
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Swift NIO Examples",
+              "description": "A set of NIO examples",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148514210,
+                "language": "Swift",
+                "last_commit": "2026-03-02T13:33:51Z",
+                "owner": "apple",
+                "repo": "swift-nio-examples",
+                "stars": 256
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Examples"
         }
       ],
       "title": "Projects using SwiftNIO"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:33:37.217Z",
+    "last_updated": "2026-08-24T14:41:13.387Z",
     "original_repository": "slashmo/awesome-swift-nio",
     "original_repository_id": 275930891,
     "original_repository_sha": "a18f7c1a85cc18c01566ee0bf1f7cca88f94cc6c",
