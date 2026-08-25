@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1064563,
             "language": "Java",
-            "last_commit": "2026-08-25T06:13:12Z",
+            "last_commit": "2026-08-25T10:17:04Z",
             "owner": "netty",
             "repo": "netty",
-            "stars": 35035
+            "stars": 35034
           }
         }
       ],
@@ -56,7 +56,7 @@
                 "archived": false,
                 "id": 49910095,
                 "language": "Swift",
-                "last_commit": "2026-08-24T23:02:58Z",
+                "last_commit": "2026-08-25T13:13:43Z",
                 "owner": "vapor",
                 "repo": "vapor",
                 "stars": 26193
@@ -261,7 +261,7 @@
                 "last_commit": "2026-08-24T08:46:20Z",
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 6947
+                "stars": 6949
               }
             }
           ],
@@ -296,7 +296,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:42.238Z",
+    "last_updated": "2026-08-25T13:31:21.121Z",
     "original_repository": "slashmo/awesome-swift-nio",
     "original_repository_id": 275930891,
     "original_repository_sha": "a18f7c1a85cc18c01566ee0bf1f7cca88f94cc6c",
