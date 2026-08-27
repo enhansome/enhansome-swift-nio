@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1064563,
             "language": "Java",
-            "last_commit": "2026-08-27T10:59:41Z",
+            "last_commit": "2026-08-27T18:12:10Z",
             "owner": "netty",
             "repo": "netty",
-            "stars": 35035
+            "stars": 35034
           }
         }
       ],
@@ -56,10 +56,10 @@
                 "archived": false,
                 "id": 49910095,
                 "language": "Swift",
-                "last_commit": "2026-08-26T13:09:22Z",
+                "last_commit": "2026-08-27T20:09:34Z",
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26192
+                "stars": 26193
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2026-08-24T08:46:20Z",
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 6950
+                "stars": 6951
               }
             }
           ],
@@ -296,7 +296,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:54.571Z",
+    "last_updated": "2026-08-27T22:32:48.125Z",
     "original_repository_info": {
       "archived": false,
       "id": 275930891,
