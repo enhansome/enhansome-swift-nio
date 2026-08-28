@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1064563,
             "language": "Java",
-            "last_commit": "2026-08-27T18:12:10Z",
+            "last_commit": "2026-08-28T14:17:22Z",
             "owner": "netty",
             "repo": "netty",
-            "stars": 35034
-          }
+            "stars": 35035
+          },
+          "first_seen": "2026-08-28T22:35:55.280Z"
         }
       ],
       "title": "Books"
@@ -37,7 +38,8 @@
             "owner": "apple",
             "repo": "swift-nio-transport-services",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T22:35:55.280Z"
         }
       ],
       "title": "Videos"
@@ -56,11 +58,12 @@
                 "archived": false,
                 "id": 49910095,
                 "language": "Swift",
-                "last_commit": "2026-08-27T20:09:34Z",
+                "last_commit": "2026-08-28T21:09:29Z",
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26193
-              }
+                "stars": 26192
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -75,7 +78,8 @@
                 "owner": "grpc",
                 "repo": "grpc-swift",
                 "stars": 2247
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -90,7 +94,8 @@
                 "owner": "amzn",
                 "repo": "smoke-framework",
                 "stars": 1453
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -105,7 +110,8 @@
                 "owner": "awslabs",
                 "repo": "swift-aws-lambda-runtime",
                 "stars": 1235
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -120,7 +126,8 @@
                 "owner": "swift-server",
                 "repo": "async-http-client",
                 "stars": 1074
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -135,7 +142,8 @@
                 "owner": "orlandos-nl",
                 "repo": "MongoKitten",
                 "stars": 754
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -150,7 +158,8 @@
                 "owner": "apple",
                 "repo": "swift-nio-http2",
                 "stars": 501
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -165,7 +174,8 @@
                 "owner": "alchemy-swift",
                 "repo": "alchemy",
                 "stars": 342
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -180,7 +190,8 @@
                 "owner": "apple",
                 "repo": "swift-nio-transport-services",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -195,7 +206,8 @@
                 "owner": "apple",
                 "repo": "swift-nio-extras",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -210,7 +222,8 @@
                 "owner": "Macro-swift",
                 "repo": "MacroExpress",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -225,7 +238,8 @@
                 "owner": "patrick-zippenfenig",
                 "repo": "ClickHouseNIO",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             },
             {
               "node_type": "item",
@@ -240,7 +254,8 @@
                 "owner": "darrellroot",
                 "repo": "netrek-server-swift",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             }
           ],
           "description": null,
@@ -261,8 +276,9 @@
                 "last_commit": "2026-08-24T08:46:20Z",
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 6951
-              }
+                "stars": 6950
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             }
           ],
           "description": null,
@@ -284,7 +300,8 @@
                 "owner": "apple",
                 "repo": "swift-nio-examples",
                 "stars": 256
-              }
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
             }
           ],
           "description": null,
@@ -296,7 +313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:32:48.125Z",
+    "last_updated": "2026-08-28T22:35:55.280Z",
     "original_repository_info": {
       "archived": false,
       "id": 275930891,
