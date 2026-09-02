@@ -15,7 +15,7 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T08:38:33Z",
+            "last_commit": "2026-09-02T12:58:19Z",
             "open_issues": 657,
             "owner": "netty",
             "repo": "netty",
@@ -71,8 +71,8 @@
                 "id": 49910095,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-01T16:22:13Z",
-                "open_issues": 121,
+                "last_commit": "2026-09-02T16:39:59Z",
+                "open_issues": 114,
                 "owner": "vapor",
                 "repo": "vapor",
                 "stars": 26194,
@@ -406,10 +406,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-24T08:46:20Z",
-                "open_issues": 1880,
+                "open_issues": 1879,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 6951,
+                "stars": 6956,
                 "topics": [
                   "debugging-tool",
                   "ios",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:52:59.691Z",
+    "last_updated": "2026-09-02T16:50:12.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
