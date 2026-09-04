@@ -1,6 +1,6 @@
 # Awesome swift nio with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,630 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,958 | 🐛 106 | 📅 2026-09-02
 
 > A collaborative list of all things Swift NIO.
 
@@ -8,7 +8,7 @@
 
 Do you know of something that's missing on this list? Please [open a pull request](https://github.com/slashmo/awesome-swift-nio/pulls) ⭐ 89 | 🐛 0 | 📅 2021-01-24 so other people can enjoy the resource as well :heart:
 
-If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,511 | 🐛 296 | 🌐 Swift | 📅 2026-09-03
+If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,512 | 🐛 296 | 🌐 Swift | 📅 2026-09-04
 
 ## Articles
 
@@ -19,7 +19,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ## Books
 
-* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,041 | 🐛 661 | 🌐 Java | 📅 2026-09-02, which inspired the creation of NIO
+* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,046 | 🐛 662 | 🌐 Java | 📅 2026-09-04, which inspired the creation of NIO
 
 ## Videos
 
@@ -33,13 +33,13 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ### Packages & executables
 
-* [Vapor](https://github.com/vapor/vapor) ⭐ 26,189 | 🐛 105 | 🌐 Swift | 📅 2026-09-02 - A server-side Swift web framework
+* [Vapor](https://github.com/vapor/vapor) ⭐ 26,190 | 🐛 105 | 🌐 Swift | 📅 2026-09-02 - A server-side Swift web framework
 * [Swift gRPC](https://github.com/grpc/grpc-swift) ⭐ 2,247 | 🐛 99 | 🌐 Swift | 📅 2026-09-01 - The Swift language implementation of gRPC
 * [SmokeFramework](https://github.com/amzn/smoke-framework) ⭐ 1,453 | 🐛 9 | 🌐 Swift | 📅 2024-07-30 - A light-weight server-side service framework written in the Swift programming language
 * [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime) ⭐ 1,235 | 🐛 8 | 🌐 Swift | 📅 2026-07-29 - Swift implementation of AWS Lambda Runtime
-* [AsyncHTTPClient](https://github.com/swift-server/async-http-client) ⭐ 1,075 | 🐛 133 | 🌐 Swift | 📅 2026-09-01 - HTTP client library built on SwiftNIO
+* [AsyncHTTPClient](https://github.com/swift-server/async-http-client) ⭐ 1,076 | 🐛 135 | 🌐 Swift | 📅 2026-09-01 - HTTP client library built on SwiftNIO
 * [MongoKitten](https://github.com/OpenKitten/MongoKitten) ⭐ 755 | 🐛 24 | 🌐 Swift | 📅 2026-05-20 - A MongoDB driver implementation in Swift
-* [Swift NIO HTTP/2](https://github.com/apple/swift-nio-http2) ⭐ 501 | 🐛 26 | 🌐 Swift | 📅 2026-09-01 - HTTP/2 support for SwiftNIO
+* [Swift NIO HTTP/2](https://github.com/apple/swift-nio-http2) ⭐ 502 | 🐛 26 | 🌐 Swift | 📅 2026-09-01 - HTTP/2 support for SwiftNIO
 * [Alchemy](https://github.com/alchemy-swift/alchemy) ⭐ 342 | 🐛 0 | 🌐 Swift | 📅 2025-11-07 - Elegant, batteries included web framework for Swift.
 * [Swift NIO transport services](https://github.com/apple/swift-nio-transport-services) ⭐ 340 | 🐛 23 | 🌐 Swift | 📅 2026-05-29 - Extensions for SwiftNIO to support Apple platforms as first-class citizens
 * [Swift NIO Extras](https://github.com/apple/swift-nio-extras) ⭐ 251 | 🐛 24 | 🌐 Swift | 📅 2026-09-03 - Useful code around SwiftNIO
@@ -49,7 +49,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ### Apps
 
-* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 6,959 | 🐛 1,880 | 📅 2026-08-24 - HTTP Debugging Proxy, uses SwiftNIO for networking
+* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 6,960 | 🐛 1,880 | 📅 2026-08-24 - HTTP Debugging Proxy, uses SwiftNIO for networking
 
 ### Examples
 
@@ -63,4 +63,4 @@ To the extent possible under law, [Moritz Lang](https://twitter.com/slashmodev) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
