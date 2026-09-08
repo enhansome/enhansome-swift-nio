@@ -1,6 +1,6 @@
 # Awesome swift nio with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,923 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,181 | 🐛 106 | 📅 2026-09-02
 
 > A collaborative list of all things Swift NIO.
 
@@ -8,7 +8,7 @@
 
 Do you know of something that's missing on this list? Please [open a pull request](https://github.com/slashmo/awesome-swift-nio/pulls) ⭐ 89 | 🐛 0 | 📅 2021-01-24 so other people can enjoy the resource as well :heart:
 
-If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,515 | 🐛 294 | 🌐 Swift | 📅 2026-09-07
+If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,516 | 🐛 295 | 🌐 Swift | 📅 2026-09-08
 
 ## Articles
 
@@ -19,7 +19,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ## Books
 
-* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,047 | 🐛 669 | 🌐 Java | 📅 2026-09-07, which inspired the creation of NIO
+* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,046 | 🐛 668 | 🌐 Java | 📅 2026-09-08, which inspired the creation of NIO
 
 ## Videos
 
@@ -33,7 +33,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ### Packages & executables
 
-* [Vapor](https://github.com/vapor/vapor) ⭐ 26,192 | 🐛 106 | 🌐 Swift | 📅 2026-09-05 - A server-side Swift web framework
+* [Vapor](https://github.com/vapor/vapor) ⭐ 26,191 | 🐛 105 | 🌐 Swift | 📅 2026-09-08 - A server-side Swift web framework
 * [Swift gRPC](https://github.com/grpc/grpc-swift) ⭐ 2,248 | 🐛 99 | 🌐 Swift | 📅 2026-09-01 - The Swift language implementation of gRPC
 * [SmokeFramework](https://github.com/amzn/smoke-framework) ⭐ 1,453 | 🐛 9 | 🌐 Swift | 📅 2024-07-30 - A light-weight server-side service framework written in the Swift programming language
 * [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime) ⭐ 1,235 | 🐛 8 | 🌐 Swift | 📅 2026-07-29 - Swift implementation of AWS Lambda Runtime
@@ -49,7 +49,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ### Apps
 
-* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 6,964 | 🐛 1,881 | 📅 2026-09-07 - HTTP Debugging Proxy, uses SwiftNIO for networking
+* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 6,964 | 🐛 1,882 | 📅 2026-09-07 - HTTP Debugging Proxy, uses SwiftNIO for networking
 
 ### Examples
 
@@ -63,4 +63,4 @@ To the extent possible under law, [Moritz Lang](https://twitter.com/slashmodev) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
