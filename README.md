@@ -1,6 +1,6 @@
 # Awesome swift nio with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,749 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,081 | 🐛 106 | 📅 2026-09-02
 
 > A collaborative list of all things Swift NIO.
 
@@ -8,7 +8,7 @@
 
 Do you know of something that's missing on this list? Please [open a pull request](https://github.com/slashmo/awesome-swift-nio/pulls) ⭐ 89 | 🐛 0 | 📅 2021-01-24 so other people can enjoy the resource as well :heart:
 
-If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,516 | 🐛 294 | 🌐 Swift | 📅 2026-09-09
+If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,518 | 🐛 294 | 🌐 Swift | 📅 2026-09-11
 
 ## Articles
 
@@ -19,11 +19,11 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ## Books
 
-* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,047 | 🐛 679 | 🌐 Java | 📅 2026-09-10, which inspired the creation of NIO
+* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,049 | 🐛 683 | 🌐 Java | 📅 2026-09-11, which inspired the creation of NIO
 
 ## Videos
 
-* [SwiftNIO and Network.framework](https://youtu.be/M9kEtkhEjQ8) - Showcases how to use [NIO transport services](https://github.com/apple/swift-nio-transport-services) ⭐ 340 | 🐛 24 | 🌐 Swift | 📅 2026-09-09 to build an iOS SMTP client
+* [SwiftNIO and Network.framework](https://youtu.be/M9kEtkhEjQ8) - Showcases how to use [NIO transport services](https://github.com/apple/swift-nio-transport-services) ⭐ 341 | 🐛 24 | 🌐 Swift | 📅 2026-09-09 to build an iOS SMTP client
 * [Event driven networking for Swift](https://youtu.be/QJ3WG9kRLMo) - An overview of NIO, also it's initial open-source unveil :tada:
 * [Testing SwiftNIO Systems](https://youtu.be/EVhliQJuFP0) - How to write automated tests for NIO applications
 * [SwiftNIO on the Raspberry PI](https://youtu.be/FPGf652O90Y) - Write NIO code in Xcode & deploy it to a Raspberry PI
@@ -33,7 +33,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ### Packages & executables
 
-* [Vapor](https://github.com/vapor/vapor) ⭐ 26,190 | 🐛 102 | 🌐 Swift | 📅 2026-09-10 - A server-side Swift web framework
+* [Vapor](https://github.com/vapor/vapor) ⭐ 26,190 | 🐛 103 | 🌐 Swift | 📅 2026-09-11 - A server-side Swift web framework
 * [Swift gRPC](https://github.com/grpc/grpc-swift) ⭐ 2,248 | 🐛 99 | 🌐 Swift | 📅 2026-09-01 - The Swift language implementation of gRPC
 * [SmokeFramework](https://github.com/amzn/smoke-framework) ⭐ 1,453 | 🐛 9 | 🌐 Swift | 📅 2024-07-30 - A light-weight server-side service framework written in the Swift programming language
 * [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime) ⭐ 1,235 | 🐛 8 | 🌐 Swift | 📅 2026-09-10 - Swift implementation of AWS Lambda Runtime
@@ -41,7 +41,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 * [MongoKitten](https://github.com/OpenKitten/MongoKitten) ⭐ 755 | 🐛 24 | 🌐 Swift | 📅 2026-05-20 - A MongoDB driver implementation in Swift
 * [Swift NIO HTTP/2](https://github.com/apple/swift-nio-http2) ⭐ 503 | 🐛 26 | 🌐 Swift | 📅 2026-09-09 - HTTP/2 support for SwiftNIO
 * [Alchemy](https://github.com/alchemy-swift/alchemy) ⭐ 342 | 🐛 0 | 🌐 Swift | 📅 2025-11-07 - Elegant, batteries included web framework for Swift.
-* [Swift NIO transport services](https://github.com/apple/swift-nio-transport-services) ⭐ 340 | 🐛 24 | 🌐 Swift | 📅 2026-09-09 - Extensions for SwiftNIO to support Apple platforms as first-class citizens
+* [Swift NIO transport services](https://github.com/apple/swift-nio-transport-services) ⭐ 341 | 🐛 24 | 🌐 Swift | 📅 2026-09-09 - Extensions for SwiftNIO to support Apple platforms as first-class citizens
 * [Swift NIO Extras](https://github.com/apple/swift-nio-extras) ⭐ 251 | 🐛 24 | 🌐 Swift | 📅 2026-09-09 - Useful code around SwiftNIO
 * [MacroExpress](https://github.com/Macro-swift/MacroExpress) ⭐ 62 | 🐛 3 | 🌐 Swift | 📅 2026-07-28 - An unopinionated SwiftNIO based web framework, Express.js/Connect like.
 * [ClickHouseNIO](https://github.com/patrick-zippenfenig/ClickHouseNIO) ⭐ 28 | 🐛 0 | 🌐 Swift | 📅 2026-04-16 - High performance Swift [ClickHouse](https://clickhouse.tech) client written in pure Swift. With [ClickHouseVapor](https://github.com/patrick-zippenfenig/ClickHouseVapor) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2026-04-16 it offers seamless ORM abstraction and connection pooling with Vapor.
@@ -49,7 +49,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ### Apps
 
-* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 6,967 | 🐛 1,884 | 📅 2026-09-07 - HTTP Debugging Proxy, uses SwiftNIO for networking
+* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 6,971 | 🐛 1,886 | 📅 2026-09-07 - HTTP Debugging Proxy, uses SwiftNIO for networking
 
 ### Examples
 
@@ -63,4 +63,4 @@ To the extent possible under law, [Moritz Lang](https://twitter.com/slashmodev) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

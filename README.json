@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T14:16:50Z",
-            "open_issues": 679,
+            "last_commit": "2026-09-11T09:41:57Z",
+            "open_issues": 683,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35047,
+            "stars": 35049,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -46,7 +46,7 @@
             "open_issues": 24,
             "owner": "apple",
             "repo": "swift-nio-transport-services",
-            "stars": 340,
+            "stars": 341,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -71,8 +71,8 @@
                 "id": 49910095,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-10T16:16:51Z",
-                "open_issues": 102,
+                "last_commit": "2026-09-11T16:31:21Z",
+                "open_issues": 103,
                 "owner": "vapor",
                 "repo": "vapor",
                 "stars": 26190,
@@ -287,7 +287,7 @@
                 "open_issues": 24,
                 "owner": "apple",
                 "repo": "swift-nio-transport-services",
-                "stars": 340,
+                "stars": 341,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:55.280Z"
@@ -406,10 +406,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-07T08:07:43Z",
-                "open_issues": 1884,
+                "open_issues": 1886,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 6967,
+                "stars": 6971,
                 "topics": [
                   "debugging-tool",
                   "ios",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:39:13.668Z",
+    "last_updated": "2026-09-11T16:44:09.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
