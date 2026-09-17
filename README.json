@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T14:24:38Z",
-            "open_issues": 678,
+            "last_commit": "2026-09-17T17:10:33Z",
+            "open_issues": 674,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35060,
+            "stars": 35062,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -71,11 +71,11 @@
                 "id": 49910095,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-16T14:43:07Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-17T13:25:17Z",
+                "open_issues": 85,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26194,
+                "stars": 26201,
                 "topics": [
                   "framework",
                   "http",
@@ -105,7 +105,7 @@
                 "open_issues": 99,
                 "owner": "grpc",
                 "repo": "grpc-swift",
-                "stars": 2248,
+                "stars": 2247,
                 "topics": [
                   "grpc",
                   "protocol-buffers",
@@ -152,7 +152,7 @@
                 "open_issues": 8,
                 "owner": "awslabs",
                 "repo": "swift-aws-lambda-runtime",
-                "stars": 1234,
+                "stars": 1233,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:55.280Z"
@@ -229,7 +229,7 @@
                 "open_issues": 26,
                 "owner": "apple",
                 "repo": "swift-nio-http2",
-                "stars": 503,
+                "stars": 502,
                 "topics": [
                   "async",
                   "beta",
@@ -308,7 +308,7 @@
                 "open_issues": 25,
                 "owner": "apple",
                 "repo": "swift-nio-extras",
-                "stars": 251,
+                "stars": 250,
                 "topics": [
                   "swift5",
                   "swiftnio"
@@ -406,7 +406,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-07T08:07:43Z",
-                "open_issues": 1887,
+                "open_issues": 1893,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
                 "stars": 6976,
@@ -445,7 +445,7 @@
                 "open_issues": 15,
                 "owner": "apple",
                 "repo": "swift-nio-examples",
-                "stars": 256,
+                "stars": 255,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:55.280Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:15:21.491Z",
+    "last_updated": "2026-09-17T17:14:23.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
@@ -472,7 +472,7 @@
       "open_issues": 0,
       "owner": "slashmo",
       "repo": "awesome-swift-nio",
-      "stars": 89,
+      "stars": 88,
       "topics": [
         "awesome-list",
         "resources",
