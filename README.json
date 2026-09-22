@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T17:39:13Z",
-            "open_issues": 714,
+            "last_commit": "2026-09-22T17:13:45Z",
+            "open_issues": 709,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35063,
+            "stars": 35065,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -71,8 +71,8 @@
                 "id": 49910095,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-21T14:33:14Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-22T17:11:56Z",
+                "open_issues": 82,
                 "owner": "vapor",
                 "repo": "vapor",
                 "stars": 26214,
@@ -148,7 +148,7 @@
                 "id": 244728768,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T15:58:47Z",
+                "last_commit": "2026-09-22T06:43:31Z",
                 "open_issues": 9,
                 "owner": "awslabs",
                 "repo": "swift-aws-lambda-runtime",
@@ -409,7 +409,7 @@
                 "open_issues": 1896,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 6985,
+                "stars": 6989,
                 "topics": [
                   "debugging-tool",
                   "ios",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:18:13.712Z",
+    "last_updated": "2026-09-22T17:14:18.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
