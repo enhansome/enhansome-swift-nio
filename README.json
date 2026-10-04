@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T09:23:18Z",
-            "open_issues": 736,
+            "last_commit": "2026-10-04T13:14:44Z",
+            "open_issues": 744,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35065,
+            "stars": 35064,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -75,7 +75,7 @@
                 "open_issues": 85,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26228,
+                "stars": 26229,
                 "topics": [
                   "framework",
                   "http",
@@ -173,7 +173,7 @@
                 "open_issues": 141,
                 "owner": "swift-server",
                 "repo": "async-http-client",
-                "stars": 1078,
+                "stars": 1079,
                 "topics": [
                   "http-client",
                   "swift-nio",
@@ -406,7 +406,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-27T14:45:27Z",
-                "open_issues": 1901,
+                "open_issues": 1900,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
                 "stars": 6996,
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:40:32.745Z",
+    "last_updated": "2026-10-04T16:58:49.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
