@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T13:14:44Z",
-            "open_issues": 744,
+            "last_commit": "2026-10-05T14:53:39Z",
+            "open_issues": 746,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35064,
+            "stars": 35068,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -71,11 +71,11 @@
                 "id": 49910095,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-02T13:33:54Z",
+                "last_commit": "2026-10-04T21:51:57Z",
                 "open_issues": 85,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26229,
+                "stars": 26230,
                 "topics": [
                   "framework",
                   "http",
@@ -152,7 +152,7 @@
                 "open_issues": 9,
                 "owner": "awslabs",
                 "repo": "swift-aws-lambda-runtime",
-                "stars": 1234,
+                "stars": 1235,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:55.280Z"
@@ -406,7 +406,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-27T14:45:27Z",
-                "open_issues": 1900,
+                "open_issues": 1903,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
                 "stars": 6996,
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T16:58:49.780Z",
+    "last_updated": "2026-10-05T21:27:22.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
@@ -472,7 +472,7 @@
       "open_issues": 0,
       "owner": "slashmo",
       "repo": "awesome-swift-nio",
-      "stars": 88,
+      "stars": 89,
       "topics": [
         "awesome-list",
         "resources",
