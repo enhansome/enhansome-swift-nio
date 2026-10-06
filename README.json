@@ -19,7 +19,7 @@
             "open_issues": 746,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35067,
+            "stars": 35065,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -196,7 +196,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-05-20T16:52:15Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "orlandos-nl",
                 "repo": "MongoKitten",
                 "stars": 755,
@@ -225,8 +225,8 @@
                 "id": 123651404,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T22:39:29Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-06T18:10:52Z",
+                "open_issues": 29,
                 "owner": "apple",
                 "repo": "swift-nio-http2",
                 "stars": 503,
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:43:34.993Z",
+    "last_updated": "2026-10-06T18:34:59.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
