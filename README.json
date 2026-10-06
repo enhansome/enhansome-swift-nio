@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T14:53:39Z",
+            "last_commit": "2026-10-06T08:34:29Z",
             "open_issues": 746,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35068,
+            "stars": 35067,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -105,7 +105,7 @@
                 "open_issues": 99,
                 "owner": "grpc",
                 "repo": "grpc-swift",
-                "stars": 2245,
+                "stars": 2246,
                 "topics": [
                   "grpc",
                   "protocol-buffers",
@@ -170,7 +170,7 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T14:37:57Z",
-                "open_issues": 141,
+                "open_issues": 140,
                 "owner": "swift-server",
                 "repo": "async-http-client",
                 "stars": 1079,
@@ -305,7 +305,7 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T17:41:53Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "apple",
                 "repo": "swift-nio-extras",
                 "stars": 249,
@@ -406,7 +406,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-27T14:45:27Z",
-                "open_issues": 1903,
+                "open_issues": 1904,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
                 "stars": 6996,
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:27:22.303Z",
+    "last_updated": "2026-10-06T10:43:34.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
