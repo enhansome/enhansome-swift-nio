@@ -15,8 +15,8 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T07:40:21Z",
-            "open_issues": 772,
+            "last_commit": "2026-10-18T15:49:20Z",
+            "open_issues": 775,
             "owner": "netty",
             "repo": "netty",
             "stars": 35058,
@@ -46,7 +46,7 @@
             "open_issues": 23,
             "owner": "apple",
             "repo": "swift-nio-transport-services",
-            "stars": 340,
+            "stars": 341,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -75,7 +75,7 @@
                 "open_issues": 82,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26227,
+                "stars": 26230,
                 "topics": [
                   "framework",
                   "http",
@@ -242,6 +242,27 @@
             },
             {
               "node_type": "item",
+              "title": "Swift NIO transport services",
+              "description": "Extensions for SwiftNIO to support Apple platforms as first-class citizens",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Extensions for SwiftNIO to support Apple platforms as first-class citizens.",
+                "homepage": "https://swiftpackageindex.com/apple/swift-nio-transport-services/main/documentation/niotransportservices",
+                "id": 141458085,
+                "language": "Swift",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-07T14:46:26Z",
+                "open_issues": 23,
+                "owner": "apple",
+                "repo": "swift-nio-transport-services",
+                "stars": 341,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:35:55.280Z"
+            },
+            {
+              "node_type": "item",
               "title": "Alchemy",
               "description": "Elegant, batteries included web framework for Swift.",
               "children": [],
@@ -273,27 +294,6 @@
             },
             {
               "node_type": "item",
-              "title": "Swift NIO transport services",
-              "description": "Extensions for SwiftNIO to support Apple platforms as first-class citizens",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Extensions for SwiftNIO to support Apple platforms as first-class citizens.",
-                "homepage": "https://swiftpackageindex.com/apple/swift-nio-transport-services/main/documentation/niotransportservices",
-                "id": 141458085,
-                "language": "Swift",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-07T14:46:26Z",
-                "open_issues": 23,
-                "owner": "apple",
-                "repo": "swift-nio-transport-services",
-                "stars": 340,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:35:55.280Z"
-            },
-            {
-              "node_type": "item",
               "title": "Swift NIO Extras",
               "description": "Useful code around SwiftNIO",
               "children": [],
@@ -308,7 +308,7 @@
                 "open_issues": 28,
                 "owner": "apple",
                 "repo": "swift-nio-extras",
-                "stars": 247,
+                "stars": 248,
                 "topics": [
                   "swift5",
                   "swiftnio"
@@ -409,7 +409,7 @@
                 "open_issues": 1914,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 7006,
+                "stars": 7010,
                 "topics": [
                   "debugging-tool",
                   "ios",
@@ -445,7 +445,7 @@
                 "open_issues": 15,
                 "owner": "apple",
                 "repo": "swift-nio-examples",
-                "stars": 254,
+                "stars": 255,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:55.280Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T15:53:55.577Z",
+    "last_updated": "2026-10-18T16:06:35.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
