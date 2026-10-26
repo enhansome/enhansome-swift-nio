@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T12:19:14Z",
-            "open_issues": 755,
+            "last_commit": "2026-10-26T18:04:15Z",
+            "open_issues": 744,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35066,
+            "stars": 35065,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -71,11 +71,11 @@
                 "id": 49910095,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-22T09:12:22Z",
+                "last_commit": "2026-10-26T18:32:37Z",
                 "open_issues": 85,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26241,
+                "stars": 26242,
                 "topics": [
                   "framework",
                   "http",
@@ -226,7 +226,7 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T10:37:25Z",
-                "open_issues": 30,
+                "open_issues": 33,
                 "owner": "apple",
                 "repo": "swift-nio-http2",
                 "stars": 502,
@@ -304,11 +304,11 @@
                 "id": 133407752,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T18:33:09Z",
+                "last_commit": "2026-10-26T11:43:38Z",
                 "open_issues": 28,
                 "owner": "apple",
                 "repo": "swift-nio-extras",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "swift5",
                   "swiftnio"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T16:46:45.232Z",
+    "last_updated": "2026-10-26T18:50:29.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
