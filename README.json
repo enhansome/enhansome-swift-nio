@@ -15,8 +15,8 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T19:35:47Z",
-            "open_issues": 749,
+            "last_commit": "2026-11-03T15:52:46Z",
+            "open_issues": 752,
             "owner": "netty",
             "repo": "netty",
             "stars": 35073,
@@ -42,7 +42,7 @@
             "id": 141458085,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T14:46:26Z",
+            "last_commit": "2026-11-03T16:14:15Z",
             "open_issues": 24,
             "owner": "apple",
             "repo": "swift-nio-transport-services",
@@ -72,10 +72,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-11-02T09:52:47Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26241,
+                "stars": 26240,
                 "topics": [
                   "framework",
                   "http",
@@ -131,7 +131,7 @@
                 "open_issues": 9,
                 "owner": "amzn",
                 "repo": "smoke-framework",
-                "stars": 1454,
+                "stars": 1453,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:55.280Z"
@@ -152,7 +152,7 @@
                 "open_issues": 8,
                 "owner": "awslabs",
                 "repo": "swift-aws-lambda-runtime",
-                "stars": 1236,
+                "stars": 1237,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:55.280Z"
@@ -170,7 +170,7 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-02T09:36:56Z",
-                "open_issues": 148,
+                "open_issues": 149,
                 "owner": "swift-server",
                 "repo": "async-http-client",
                 "stars": 1083,
@@ -252,7 +252,7 @@
                 "id": 141458085,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T14:46:26Z",
+                "last_commit": "2026-11-03T16:14:15Z",
                 "open_issues": 24,
                 "owner": "apple",
                 "repo": "swift-nio-transport-services",
@@ -409,7 +409,7 @@
                 "open_issues": 1922,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 7029,
+                "stars": 7030,
                 "topics": [
                   "debugging-tool",
                   "ios",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T21:54:10.659Z",
+    "last_updated": "2026-11-03T19:46:06.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
