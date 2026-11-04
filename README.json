@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T15:52:46Z",
-            "open_issues": 752,
+            "last_commit": "2026-11-04T15:22:29Z",
+            "open_issues": 757,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35073,
+            "stars": 35076,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -46,7 +46,7 @@
             "open_issues": 24,
             "owner": "apple",
             "repo": "swift-nio-transport-services",
-            "stars": 342,
+            "stars": 343,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -72,10 +72,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-11-02T09:52:47Z",
-                "open_issues": 85,
+                "open_issues": 87,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26240,
+                "stars": 26241,
                 "topics": [
                   "framework",
                   "http",
@@ -173,7 +173,7 @@
                 "open_issues": 149,
                 "owner": "swift-server",
                 "repo": "async-http-client",
-                "stars": 1083,
+                "stars": 1084,
                 "topics": [
                   "http-client",
                   "swift-nio",
@@ -256,7 +256,7 @@
                 "open_issues": 24,
                 "owner": "apple",
                 "repo": "swift-nio-transport-services",
-                "stars": 342,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:55.280Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T19:46:06.479Z",
+    "last_updated": "2026-11-04T19:59:22.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
