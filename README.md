@@ -1,6 +1,6 @@
 # Awesome swift nio with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,779 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,259 | 🐛 103 | 📅 2026-09-02
 
 > A collaborative list of all things Swift NIO.
 
@@ -8,7 +8,7 @@
 
 Do you know of something that's missing on this list? Please [open a pull request](https://github.com/slashmo/awesome-swift-nio/pulls) so other people can enjoy the resource as well :heart:
 
-If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,550 | 🐛 316 | 🌐 Swift | 📅 2026-11-09
+If you instead want to get started contributing to NIO itself, check out the list of ["good first issues"](https://github.com/apple/swift-nio/labels/good%20first%20issue) ⭐ 8,551 | 🐛 316 | 🌐 Swift | 📅 2026-11-09
 
 ## Articles
 
@@ -19,7 +19,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ## Books
 
-* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,070 | 🐛 759 | 🌐 Java | 📅 2026-11-10, which inspired the creation of NIO
+* [Netty in Action](https://www.manning.com/books/netty-in-action) - *The* book about [Netty](https://github.com/netty/netty) ⭐ 35,068 | 🐛 756 | 🌐 Java | 📅 2026-11-11, which inspired the creation of NIO
 
 ## Videos
 
@@ -33,12 +33,12 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ### Packages & executables
 
-* [Vapor](https://github.com/vapor/vapor) ⭐ 26,242 | 🐛 89 | 🌐 Swift | 📅 2026-11-10 - A server-side Swift web framework
-* [Swift gRPC](https://github.com/grpc/grpc-swift) ⭐ 2,248 | 🐛 99 | 🌐 Swift | 📅 2026-09-01 - The Swift language implementation of gRPC
+* [Vapor](https://github.com/vapor/vapor) ⭐ 26,240 | 🐛 91 | 🌐 Swift | 📅 2026-11-11 - A server-side Swift web framework
+* [Swift gRPC](https://github.com/grpc/grpc-swift) ⭐ 2,249 | 🐛 99 | 🌐 Swift | 📅 2026-09-01 - The Swift language implementation of gRPC
 * [SmokeFramework](https://github.com/amzn/smoke-framework) ⭐ 1,453 | 🐛 9 | 🌐 Swift | 📅 2024-07-30 - A light-weight server-side service framework written in the Swift programming language
 * [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime) ⭐ 1,237 | 🐛 8 | 🌐 Swift | 📅 2026-10-30 - Swift implementation of AWS Lambda Runtime
 * [AsyncHTTPClient](https://github.com/swift-server/async-http-client) ⭐ 1,085 | 🐛 149 | 🌐 Swift | 📅 2026-11-02 - HTTP client library built on SwiftNIO
-* [MongoKitten](https://github.com/OpenKitten/MongoKitten) ⭐ 756 | 🐛 24 | 🌐 Swift | 📅 2026-11-10 - A MongoDB driver implementation in Swift
+* [MongoKitten](https://github.com/OpenKitten/MongoKitten) ⭐ 756 | 🐛 25 | 🌐 Swift | 📅 2026-11-10 - A MongoDB driver implementation in Swift
 * [Swift NIO HTTP/2](https://github.com/apple/swift-nio-http2) ⭐ 503 | 🐛 36 | 🌐 Swift | 📅 2026-10-27 - HTTP/2 support for SwiftNIO
 * [Swift NIO transport services](https://github.com/apple/swift-nio-transport-services) ⭐ 343 | 🐛 24 | 🌐 Swift | 📅 2026-11-03 - Extensions for SwiftNIO to support Apple platforms as first-class citizens
 * [Alchemy](https://github.com/alchemy-swift/alchemy) ⭐ 341 | 🐛 0 | 🌐 Swift | 📅 2025-11-07 - Elegant, batteries included web framework for Swift.
@@ -49,7 +49,7 @@ If you instead want to get started contributing to NIO itself, check out the lis
 
 ### Apps
 
-* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 7,037 | 🐛 1,923 | 📅 2026-11-02 - HTTP Debugging Proxy, uses SwiftNIO for networking
+* [Proxyman](https://github.com/ProxymanApp/Proxyman) ⭐ 7,040 | 🐛 1,924 | 📅 2026-11-02 - HTTP Debugging Proxy, uses SwiftNIO for networking
 
 ### Examples
 
@@ -63,4 +63,4 @@ To the extent possible under law, [Moritz Lang](https://twitter.com/slashmodev) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
