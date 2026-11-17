@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T17:35:08Z",
-            "open_issues": 755,
+            "last_commit": "2026-11-17T20:38:15Z",
+            "open_issues": 754,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35064,
+            "stars": 35065,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -71,11 +71,11 @@
                 "id": 49910095,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-13T12:50:33Z",
-                "open_issues": 90,
+                "last_commit": "2026-11-17T12:39:03Z",
+                "open_issues": 89,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26240,
+                "stars": 26238,
                 "topics": [
                   "framework",
                   "http",
@@ -225,8 +225,8 @@
                 "id": 123651404,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T15:28:42Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-17T10:10:42Z",
+                "open_issues": 41,
                 "owner": "apple",
                 "repo": "swift-nio-http2",
                 "stars": 503,
@@ -308,7 +308,7 @@
                 "open_issues": 29,
                 "owner": "apple",
                 "repo": "swift-nio-extras",
-                "stars": 250,
+                "stars": 251,
                 "topics": [
                   "swift5",
                   "swiftnio"
@@ -405,11 +405,11 @@
                 "id": 142885098,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-11-14T21:49:54Z",
-                "open_issues": 1926,
+                "last_commit": "2026-11-17T12:52:58Z",
+                "open_issues": 1925,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 7046,
+                "stars": 7047,
                 "topics": [
                   "debugging-tool",
                   "ios",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:28:37.732Z",
+    "last_updated": "2026-11-17T21:17:34.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
