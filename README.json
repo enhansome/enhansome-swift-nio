@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-21T10:19:38Z",
-            "open_issues": 767,
+            "open_issues": 768,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35066,
+            "stars": 35069,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -75,7 +75,7 @@
                 "open_issues": 90,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26238,
+                "stars": 26234,
                 "topics": [
                   "framework",
                   "http",
@@ -105,7 +105,7 @@
                 "open_issues": 99,
                 "owner": "grpc",
                 "repo": "grpc-swift",
-                "stars": 2247,
+                "stars": 2246,
                 "topics": [
                   "grpc",
                   "protocol-buffers",
@@ -406,10 +406,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-17T12:52:58Z",
-                "open_issues": 1926,
+                "open_issues": 1927,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 7051,
+                "stars": 7050,
                 "topics": [
                   "debugging-tool",
                   "ios",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T19:44:06.706Z",
+    "last_updated": "2026-11-22T19:56:21.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
