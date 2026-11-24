@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T10:19:38Z",
-            "open_issues": 768,
+            "last_commit": "2026-11-23T18:44:29Z",
+            "open_issues": 762,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35069,
+            "stars": 35070,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -71,11 +71,11 @@
                 "id": 49910095,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-17T12:39:03Z",
-                "open_issues": 90,
+                "last_commit": "2026-11-23T19:36:55Z",
+                "open_issues": 89,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26234,
+                "stars": 26233,
                 "topics": [
                   "framework",
                   "http",
@@ -105,7 +105,7 @@
                 "open_issues": 99,
                 "owner": "grpc",
                 "repo": "grpc-swift",
-                "stars": 2246,
+                "stars": 2245,
                 "topics": [
                   "grpc",
                   "protocol-buffers",
@@ -131,7 +131,7 @@
                 "open_issues": 9,
                 "owner": "amzn",
                 "repo": "smoke-framework",
-                "stars": 1452,
+                "stars": 1451,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:55.280Z"
@@ -169,7 +169,7 @@
                 "id": 178287727,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T11:26:11Z",
+                "last_commit": "2026-11-23T14:01:25Z",
                 "open_issues": 151,
                 "owner": "swift-server",
                 "repo": "async-http-client",
@@ -199,7 +199,7 @@
                 "open_issues": 25,
                 "owner": "orlandos-nl",
                 "repo": "MongoKitten",
-                "stars": 756,
+                "stars": 755,
                 "topics": [
                   "database",
                   "mongodb",
@@ -225,7 +225,7 @@
                 "id": 123651404,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T10:10:42Z",
+                "last_commit": "2026-11-23T13:20:55Z",
                 "open_issues": 41,
                 "owner": "apple",
                 "repo": "swift-nio-http2",
@@ -304,7 +304,7 @@
                 "id": 133407752,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T08:32:42Z",
+                "last_commit": "2026-11-23T13:21:52Z",
                 "open_issues": 34,
                 "owner": "apple",
                 "repo": "swift-nio-extras",
@@ -409,7 +409,7 @@
                 "open_issues": 1927,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 7050,
+                "stars": 7051,
                 "topics": [
                   "debugging-tool",
                   "ios",
@@ -445,7 +445,7 @@
                 "open_issues": 15,
                 "owner": "apple",
                 "repo": "swift-nio-examples",
-                "stars": 257,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:55.280Z"
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T19:56:21.534Z",
+    "last_updated": "2026-11-24T00:17:34.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
