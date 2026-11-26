@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T19:23:36Z",
-            "open_issues": 756,
+            "last_commit": "2026-11-26T18:42:11Z",
+            "open_issues": 750,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35071,
+            "stars": 35069,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -75,7 +75,7 @@
                 "open_issues": 89,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26234,
+                "stars": 26236,
                 "topics": [
                   "framework",
                   "http",
@@ -152,7 +152,7 @@
                 "open_issues": 8,
                 "owner": "awslabs",
                 "repo": "swift-aws-lambda-runtime",
-                "stars": 1237,
+                "stars": 1238,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:35:55.280Z"
@@ -173,7 +173,7 @@
                 "open_issues": 154,
                 "owner": "swift-server",
                 "repo": "async-http-client",
-                "stars": 1088,
+                "stars": 1089,
                 "topics": [
                   "http-client",
                   "swift-nio",
@@ -226,7 +226,7 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-23T13:20:55Z",
-                "open_issues": 40,
+                "open_issues": 39,
                 "owner": "apple",
                 "repo": "swift-nio-http2",
                 "stars": 503,
@@ -328,7 +328,7 @@
                 "id": 232589525,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T16:24:37Z",
+                "last_commit": "2026-11-26T17:31:34Z",
                 "open_issues": 3,
                 "owner": "Macro-swift",
                 "repo": "MacroExpress",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T21:57:10.574Z",
+    "last_updated": "2026-11-26T21:53:17.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
