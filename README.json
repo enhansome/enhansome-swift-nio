@@ -15,11 +15,11 @@
             "id": 1064563,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T18:42:11Z",
-            "open_issues": 750,
+            "last_commit": "2026-11-27T19:51:38Z",
+            "open_issues": 752,
             "owner": "netty",
             "repo": "netty",
-            "stars": 35069,
+            "stars": 35070,
             "topics": []
           },
           "first_seen": "2026-08-28T22:35:55.280Z"
@@ -71,11 +71,11 @@
                 "id": 49910095,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-24T11:31:39Z",
-                "open_issues": 89,
+                "last_commit": "2026-11-27T14:45:53Z",
+                "open_issues": 90,
                 "owner": "vapor",
                 "repo": "vapor",
-                "stars": 26236,
+                "stars": 26234,
                 "topics": [
                   "framework",
                   "http",
@@ -173,7 +173,7 @@
                 "open_issues": 154,
                 "owner": "swift-server",
                 "repo": "async-http-client",
-                "stars": 1089,
+                "stars": 1090,
                 "topics": [
                   "http-client",
                   "swift-nio",
@@ -406,10 +406,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-25T17:53:22Z",
-                "open_issues": 1931,
+                "open_issues": 1932,
                 "owner": "ProxymanApp",
                 "repo": "Proxyman",
-                "stars": 7055,
+                "stars": 7057,
                 "topics": [
                   "debugging-tool",
                   "ios",
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:53:17.236Z",
+    "last_updated": "2026-11-27T21:36:04.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A collaborative list of all things Swift NIO",
